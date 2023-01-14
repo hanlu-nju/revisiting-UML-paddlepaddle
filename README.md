@@ -33,9 +33,7 @@ Experimental results on few-shot learning datasets with ResNet-12 backbone (Same
 
 The following packages are required to run the scripts:
 
-- [PyTorch and torchvision](https://pytorch.org)
-
-- Package [tensorboardX](https://github.com/lanpa/tensorboardX)
+- [paddlepaddle](https://www.paddlepaddle.org.cn/)
 
 - Dataset: please download the dataset and put images into the folder data/[name of the dataset, miniimagenet or cub]/images
 
